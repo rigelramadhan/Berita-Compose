@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Berita Compose</string>
+    <string name="description_news_image">News Image</string>
+    <string name="placeholder_news_title">Compose Champion is Up Now!</string>
+    <string name="dicoding">Dicoding</string>
+    <string name="placeholder_news_description">This describe the news as a whole and will be put in the home news list.</string>
+    <string name="placeholder_news_date">27 November 2022</string>
+    <string name="placeholder_news_url">https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/challenge/dos:c74f5d4c2e024c6fd39e92fe5702fc7920221109144513.png</string>
+    <string name="no_news_found">No news found at the moment</string>
+    <string name="failed_to_load_news">Failed to load news</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="something_went_wrong">Something went wrong</string>
+</resources>
